@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Ben Santora <bensatlantik>"]
 description = "A flexible, chainable data transformation pipeline for Rust"
 repository = "https://github.com/bensatlantik/pipecrafter"
+license = "MIT"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
