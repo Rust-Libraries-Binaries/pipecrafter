@@ -1,0 +1,13 @@
+# Standard Rust ignores
+target/
+**/*.rs.bk
+**/*.swp
+Cargo.lock
+
+# IDE-specific
+.idea/
+.vscode/
+*.iml
+
+# MacOS and Linux
+.DS_Store
