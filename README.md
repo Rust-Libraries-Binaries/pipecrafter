@@ -27,3 +27,6 @@ Import the necessary components and build your data pipeline!
 
 ## License
 MIT License
+
+## Author
+Ben Santora (<bensatlantik@gmail.com>)

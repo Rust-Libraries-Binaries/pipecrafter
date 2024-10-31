@@ -1,8 +1,8 @@
 [package]
 name = "pipecrafter"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-authors = ["Ben Santora <bensatlantik>"]
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
 description = "A flexible, chainable data transformation pipeline for Rust"
 repository = "https://github.com/bensatlantik/pipecrafter"
 license = "MIT"
