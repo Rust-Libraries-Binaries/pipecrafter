@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # pipecrafter
 
 **PipeCrafter** is a flexible, chainable data transformation pipeline library for Rust, designed to make data ingestion, transformation, and output easier for Rust projects.
@@ -29,4 +33,4 @@ Import the necessary components and build your data pipeline!
 MIT License
 
 ## Author
-Ben Santora (<bensatlantik@gmail.com>)
+Ben Santora
